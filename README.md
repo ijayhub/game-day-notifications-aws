@@ -23,7 +23,7 @@
 
 # Event-Driven Architecture Notification App using AWS Services
 
-## Technical Architecture
+## Technical Architecture 
 
 ![nba_API](https://github.com/user-attachments/assets/5e19635e-0685-4c07-9601-330f7d1231f9)
 
@@ -33,7 +33,7 @@
 ### About The Project
 
 
-This project uses an event-driven architecture built with AWS services like Lambda, SNS, and SQS. It processes events in real time, making the system scalable, reliable, and efficient.
+This project uses an event-driven architecture built with AWS services like Lambda, event bridge and SNS. It processes updates in real time, making the system scalable, reliable, and efficient.
 
 ### Overview
 
