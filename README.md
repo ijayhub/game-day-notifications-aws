@@ -37,7 +37,7 @@ This project uses an event-driven architecture built with AWS services like Lamb
 
 ### Overview
 
-* [Repo Codes]()
+* [Repo Codes](https://github.com/ijayhub/game-day-notifications-aws)
 
 * [documentation]()
 
