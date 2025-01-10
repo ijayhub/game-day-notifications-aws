@@ -95,8 +95,15 @@ This project uses an event-driven architecture built with AWS services like Lamb
 
 Before I knew that, oh my!!!
 
-<img src="error.png">
+<img src="error.png" alt="error"/>
 
 
 2. I didn't know why my Lambda function refused to work, so I had to re-check my region and configuration settings before everything worked correctly.
+
+<p align="right">(<a href="#top">back to top</a>)</p>
+
+### **Result**
+
+<img src="result.jpg" alt="result"/>
+
 <p align="right">(<a href="#top">back to top</a>)</p>
