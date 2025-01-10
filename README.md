@@ -33,9 +33,7 @@
  
 ### About The Project
 
-
-This project uses an event-driven architecture built with AWS services like Lambda, event bridge and SNS. It processes updates in real time, making the system scalable, reliable, and efficient.
-In simple term it ensures sports fans stay updated with real-time game scores, schedules, and results by subscriping. Subscribers/Users receive instant alerts via SMS or email.
+This project uses an event-driven architecture with AWS services like Lambda, EventBridge, and SNS to process updates in real-time. It ensures sports fans stay informed about game scores, schedules, and results. Subscribers receive alerts via SMS or email based on their chosen schedule.
 
 ### Overview
 
