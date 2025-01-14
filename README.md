@@ -22,7 +22,7 @@
 </details>
 
 
-# Event-Driven Architecture Notification App using AWS Services
+# Event-Driven Notification App using AWS Services
 
 ## Technical Architecture 
 
@@ -39,7 +39,7 @@ This project uses an event-driven architecture with AWS services like Lambda, Ev
 
 * [Repo Codes](https://github.com/ijayhub/game-day-notifications-aws)
 
-* [documentation]()
+* [documentation](https://dev.to/ijay/doc-building-an-event-driven-architecture-notification-app-using-aws-services-2ka4)
 
 <p align="right">(<a href="#top">back to top</a>)</p>
 
@@ -48,7 +48,7 @@ This project uses an event-driven architecture with AWS services like Lambda, Ev
   
 - **Notifications**: Using Amazon SNS to send a well-formatted score updates to subscribers.
 
-- **Live NBA Scores**: Using API from [sportsdata.io](https://sportsdata.io/) to get real-time NBA game scores.
+- **Live NBA Scores**: Using API from [sportsdata.io](https://sportsdata.io/) to get real-time NBA game information.
 
 - **Scheduled Updates**: Automates regular score updates with Amazon EventBridge.  
 
